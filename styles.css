@@ -1,0 +1,48 @@
+.nav{
+    background-color: #eeede1;
+    padding: 2px;
+
+}
+
+.nav .ul{
+    display: flex;
+}
+
+.nav .ul li{
+    list-style:none;
+    margin-right: 15px;
+}
+
+.li1{
+    margin-left: 700px;
+}
+li a{
+    text-decoration: none;
+    color: black;
+}
+
+.cdmx{
+    width: 100%;
+    height: 400px;
+
+}
+.titulo{
+    color: #a49912;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.body{
+    font-family: "Lato", sans-serif;
+}
+   
+
+.p1, .p2{
+    text-align: center;
+
+}
+
+.p1{
+    font-weight: bold;
+}
